@@ -52,7 +52,7 @@ I specialize in **Full-Stack Development using Laravel and React**, with strong 
 
 <!-- ===================== SNAKE (FIXED) ===================== -->
 
-## 🐍 Contribution Snake
+## 🐍 Contribution
 
 <div align="center">
 
